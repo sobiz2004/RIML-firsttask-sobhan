@@ -36,6 +36,8 @@ The pipeline generates:
 * Patch-level anomaly scores (`test_001_Ascores.csv`)
 * Global anomaly heatmap (`test_001_anomaly_heatmap_overlay.png`)
 * Visualization of top anomalous patch locations (`test_001_top20_locations.png`)
+* Visualization of top anomalous patches (`test_001_top20.png`)
+
 
 ## Notes
 
